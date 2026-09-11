@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  Currently working with <b>Mobile development</b>!
+  Currently working on mobile development and studying game development.</b>
 </p>
 
 <br>
